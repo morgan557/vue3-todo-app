@@ -1,5 +1,7 @@
 # practice-todo-app
-
+```
+Just a CRUD, front-end coming soon
+```
 ## Project setup
 ```
 yarn install
@@ -22,5 +24,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-"# vue3-todo-app"  git init
-"# vue3-todo-app"  
+
